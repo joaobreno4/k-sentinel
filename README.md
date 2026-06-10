@@ -217,3 +217,5 @@ O Deployment permanecera em estado `Terminating` ate que o Operator confirme a e
 ## Licenca
 
 Copyright 2026. Licenciado sob os termos da Apache License, Version 2.0.
+
+Criado por João Breno
