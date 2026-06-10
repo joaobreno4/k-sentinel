@@ -1,4 +1,4 @@
-module github.com/joaosilva/k-sentinel
+module github.com/joaobreno4/k-sentinel
 
 go 1.25.7
 

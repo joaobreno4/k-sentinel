@@ -35,8 +35,8 @@ import (
 	metricsserver "sigs.k8s.io/controller-runtime/pkg/metrics/server"
 	"sigs.k8s.io/controller-runtime/pkg/webhook"
 
-	"github.com/joaosilva/k-sentinel/internal/controller"
-	"github.com/joaosilva/k-sentinel/pkg/observability"
+	"github.com/joaobreno4/k-sentinel/internal/controller"
+	"github.com/joaobreno4/k-sentinel/pkg/observability"
 	// +kubebuilder:scaffold:imports
 )
 

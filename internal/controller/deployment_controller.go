@@ -27,7 +27,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/controller/controllerutil"
 	logf "sigs.k8s.io/controller-runtime/pkg/log"
 
-	"github.com/joaosilva/k-sentinel/pkg/observability"
+	"github.com/joaobreno4/k-sentinel/pkg/observability"
 )
 
 const (
